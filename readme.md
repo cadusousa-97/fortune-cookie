@@ -1,6 +1,6 @@
 # BISCOITO DA SORTE
 
-O projeto em questão se trata de um site onde o usuário pode retirar uma frase do biscoito da sorte. 
+O projeto em questão se trata de um site onde o usuário pode retirar a sorte do dia do biscoito da sorte. 
 
 ## Demonstração
 
