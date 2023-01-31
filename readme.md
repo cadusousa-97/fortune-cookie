@@ -4,4 +4,5 @@ O projeto em questão se trata de um site onde o usuário pode retirar uma frase
 
 ## Demonstração
 
-<iframe src="https://giphy.com/embed/c39CnlGL1QHuGVoOVZ" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/c39CnlGL1QHuGVoOVZ">via GIPHY</a></p>
+![cookie](https://user-images.githubusercontent.com/72715175/215631408-6ce83393-94ec-457a-8191-594f288127d4.gif)
+
